@@ -12,3 +12,4 @@ function naiveSearch(long, short) {
 }
 
 naiveSearch("lorie loled", "lol");
+
