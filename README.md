@@ -1,3 +1,3 @@
-# JS_Algorithms_DataStructures
+# JavaScript_Algorithms
 
-This repository is filled with notes and examples from learning about algorithms.
+This repository is filled with notes and examples from learning about JavaScript algorithms.
