@@ -14,7 +14,7 @@ function isPalindrome(str) {
 // Valid Palindrome
 // Given a string s, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
 var isPalindrome = function (s) {
-  let str = s.replace(/[^a-z0-9]/gi, "").toLowerCase();
+  let str = s.replace(/[^a-z0-9]/ig, "").toLowerCase();
   for (let i = 0; i < str.length / 2; i++) {
     let start = str[i];
     let end = str[str.length - 1 - i];
